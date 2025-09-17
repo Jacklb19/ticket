@@ -28,7 +28,7 @@ export default function Home() {
                   <div className="text-sm text-gray-600 mb-2">
                     Mumbai,<br />India
                   </div>
-                  <div className="text-7xl font-bold text-blue-900 leading-none">
+                  <div className="text-7xl font-bold text-blue-900">
                     BOM
                   </div>
                   <div className="text-base mt-3 text-blue-900">
